@@ -149,4 +149,4 @@ Review your specifications for each of the three methods (you may discuss with a
 
 ### Submission
 
-Answer the questions posed in this lab activity, create a PDF file with the answers and upload it to **Lab 3** on [Gradescope](https://gradescope.com). If you want any credit for the work, you should submit your answers by 6:00 p.m. on Oct/5/2015.
+Answer the questions posed in this lab activity, create a PDF file with the answers and upload it to **Lab 3** on [Gradescope](https://gradescope.com). If you want any credit for the work, you should submit your answers by 6:00 p.m. on Oct/5/2015. Work with a partner of your choice, from your lab section, for this activity. Both of you can submit the same document and the document should have both your names on it.
